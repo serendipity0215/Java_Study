@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="483bb297-f7e2-45a2-acfd-b65495e5cb34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,9 @@
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="27inZcbRyDgR3ViNfo5rGQH4mQV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -177,12 +178,24 @@
       <workItem from="1653271618224" duration="2340000" />
       <workItem from="1653355017092" duration="3172000" />
       <workItem from="1653439543202" duration="10594000" />
-      <workItem from="1653524741940" duration="3880000" />
+      <workItem from="1653524741940" duration="4586000" />
     </task>
+    <task id="LOCAL-00001" summary="上传 &lt;接口&gt; 的学习文档">
+      <created>1653534352055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653534352055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="上传 &lt;接口&gt; 的学习文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传 &lt;接口&gt; 的学习文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2359" y="745" key="#Notifications" timestamp="1653534203238">
@@ -218,10 +231,10 @@
       <screen x="0" y="0" width="3777" height="2160" />
     </state>
     <state x="2594" y="968" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.3777.2160@0.0.3777.2160" timestamp="1650511955222" />
-    <state x="1929" y="754" key="CommitChangelistDialog2" timestamp="1653534110869">
+    <state x="1929" y="754" key="CommitChangelistDialog2" timestamp="1653534349878">
       <screen x="0" y="0" width="3777" height="2160" />
     </state>
-    <state x="1929" y="754" key="CommitChangelistDialog2/-1920.0.1857.1080/0.0.3777.2160@0.0.3777.2160" timestamp="1653534110869" />
+    <state x="1929" y="754" key="CommitChangelistDialog2/-1920.0.1857.1080/0.0.3777.2160@0.0.3777.2160" timestamp="1653534349878" />
     <state x="2630" y="977" key="Github.ShareDialog" timestamp="1653532739110">
       <screen x="0" y="0" width="3777" height="2160" />
     </state>
