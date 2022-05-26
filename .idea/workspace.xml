@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="483bb297-f7e2-45a2-acfd-b65495e5cb34" name="Default Changelist" comment="上传 &lt;接口&gt; 的学习文档">
-      <change afterPath="$PROJECT_DIR$/src/com/my/Exer6/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/my/Exer6/CompareObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/my/Exer6/CompareableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/my/Exer6/CompareableCircleTest.java" afterDir="false" />
+    <list default="true" id="483bb297-f7e2-45a2-acfd-b65495e5cb34" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Study/com/my/Exer5/PayrollSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Study/com/my/Exer5/PayrollSystem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +179,7 @@
       <workItem from="1653271618224" duration="2340000" />
       <workItem from="1653355017092" duration="3172000" />
       <workItem from="1653439543202" duration="10594000" />
-      <workItem from="1653524741940" duration="9284000" />
+      <workItem from="1653524741940" duration="9525000" />
     </task>
     <task id="LOCAL-00001" summary="上传 &lt;接口&gt; 的学习文档">
       <created>1653534352055</created>
@@ -214,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653535135246</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="接口练习: 比较大小">
+      <created>1653546767493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653546767493</updated>
+    </task>
+    <task id="LOCAL-00006" summary="接口练习: 比较大小">
+      <created>1653546904844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653546904844</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +231,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="上传 &lt;接口&gt; 的学习文档" />
-    <option name="LAST_COMMIT_MESSAGE" value="上传 &lt;接口&gt; 的学习文档" />
+    <MESSAGE value="接口练习: 比较大小" />
+    <option name="LAST_COMMIT_MESSAGE" value="接口练习: 比较大小" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2359" y="745" key="#Notifications" timestamp="1653534203238">
@@ -258,10 +268,10 @@
       <screen x="0" y="0" width="3777" height="2160" />
     </state>
     <state x="2594" y="968" width="441" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.3777.2160@0.0.3777.2160" timestamp="1650511955222" />
-    <state x="1824" y="1007" key="CommitChangelistDialog2" timestamp="1653546766485">
+    <state x="1824" y="1007" key="CommitChangelistDialog2" timestamp="1653546917319">
       <screen x="0" y="0" width="3777" height="2160" />
     </state>
-    <state x="1824" y="1007" key="CommitChangelistDialog2/-1920.0.1857.1080/0.0.3777.2160@0.0.3777.2160" timestamp="1653546766485" />
+    <state x="1824" y="1007" key="CommitChangelistDialog2/-1920.0.1857.1080/0.0.3777.2160@0.0.3777.2160" timestamp="1653546917319" />
     <state x="2630" y="977" key="Github.ShareDialog" timestamp="1653532739110">
       <screen x="0" y="0" width="3777" height="2160" />
     </state>
